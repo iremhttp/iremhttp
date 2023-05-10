@@ -50,5 +50,5 @@ To contact me:
 
 <a href="mailto:hatipoglu.irem@hotmail.com"><img width="26px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="mail"/></a>
 <a href="https://www.linkedin.com/in/irem-hatipoglu-1ba8a51bb/"><img width="26px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
-<a href="[https://www.linkedin.com/in/irem-hatipoglu-1ba8a51bb/](https://www.artstation.com/iremhttp/profile)"><img width="26px" src="https://img.icons8.com/color/96/000000/artstation.png" alt="artstation"/></a>
+<a href="https://www.artstation.com/iremhttp/profile"><img width="26px" src="https://img.icons8.com/color/96/000000/artstation.png" alt="artstation"/></a>
 
