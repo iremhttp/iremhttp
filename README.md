@@ -1,7 +1,8 @@
 <h1> Hello! </h1>
 
 - My name is Irem.
-- I am studying Computer Engineering at <a href="https://www.ieu.edu.tr/en">Izmir University of Economics</a>.
+- I am Master of Science in Artificial Intelligence student at <a href="https://www.ncirl.ie">National College of Ireland</a>.
+- I studied Computer Engineering at <a href="https://www.ieu.edu.tr/en">Izmir University of Economics</a>.
 - As a part of Erasmus+ exchange program, I studied Computer Science at <a href="https://www.maynoothuniversity.ie"> Maynooth University</a> and Computer Engineering at <a href="https://www.thws.de/en/"> Technical University of Applied Sciences Würzburg-Schweinfurt</a>.
 
 
@@ -11,6 +12,7 @@
 <img align="left" alt="java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" >
+ <img align="left" alt="swift" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" > 
 <img align="left" alt="linux" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
 <img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
@@ -48,7 +50,8 @@
 
 To contact me:
 
+<a href="https://iremhttp.github.io"><img width="26px" src="https://img.icons8.com/color/96/000000/web.png" alt="mail"/></a>
 <a href="mailto:hatipoglu.irem@hotmail.com"><img width="26px" src="https://img.icons8.com/color/96/000000/gmail.png" alt="mail"/></a>
-<a href="https://www.linkedin.com/in/irem-hatipoglu-1ba8a51bb/"><img width="26px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+<a href="www.linkedin.com/in/iremmhatipoglu"><img width="26px" src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 <a href="https://www.artstation.com/iremhttp/profile"><img width="26px" src="https://img.icons8.com/color/96/000000/artstation.png" alt="artstation"/></a>
 
