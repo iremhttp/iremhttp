@@ -1,7 +1,7 @@
 <h1> Hello! </h1>
 
 - My name is Irem.
-- I am Master of Science in Artificial Intelligence student at <a href="https://www.ncirl.ie">National College of Ireland</a>.
+- I graduated with Master of Science in Artificial Intelligence from <a href="https://www.ncirl.ie">National College of Ireland</a>.
 - I studied Computer Engineering at <a href="https://www.ieu.edu.tr/en">Izmir University of Economics</a>.
 - As a part of Erasmus+ exchange program, I studied Computer Science at <a href="https://www.maynoothuniversity.ie"> Maynooth University</a> and Computer Engineering at <a href="https://www.thws.de/en/"> Technical University of Applied Sciences Würzburg-Schweinfurt</a>.
 
